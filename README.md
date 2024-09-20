@@ -1,4 +1,3 @@
-
 # Crowdfunding ETL Project
 
 ## Overview
@@ -9,7 +8,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline using Pytho
 
 The repository contains the following key files:
 
-* `ETL_Mini_Project_<Partner1>_<Partner2>.ipynb`: The main Jupyter notebook that contains the complete ETL process, including data extraction, transformation, and CSV file creation.
+* `ETL_Mini_Project_JMancheno_SKhatri.ipynb`: The main Jupyter notebook that contains the complete ETL process, including data extraction, transformation, and CSV file creation.
 * `Resources/`: Contains the original Excel files used for data extraction.
   * `crowdfunding.xlsx`: Data for crowdfunding campaigns.
   * `contacts.xlsx`: Data for contacts associated with campaigns.
@@ -53,3 +52,5 @@ We designed a normalized database schema based on the data transformations, repr
 ### Table Schema
 
 The schema includes primary keys for each table and foreign key constraints where applicable. Data types and constraints are specified in the `crowdfunding_db_schema.sql` file.
+
+![1726810610227](image/README/1726810610227.png)
