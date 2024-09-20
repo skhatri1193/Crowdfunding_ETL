@@ -53,4 +53,4 @@ We designed a normalized database schema based on the data transformations, repr
 
 The schema includes primary keys for each table and foreign key constraints where applicable. Data types and constraints are specified in the `crowdfunding_db_schema.sql` file.
 
-![1726810610227](image/README/1726810610227.png)
+![ERD](ERD_CrowdfundingETL.png)
